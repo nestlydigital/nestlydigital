@@ -83,6 +83,9 @@ https://nestlydigital.com/contact/
 
 ## Connect
 
-Website: https://nestlydigital.com
-X: https://x.com/nestlydigital
-GitHub: https://github.com/nestlydigital
+[![Website](https://img.shields.io/badge/Website-nestlydigital.com-blue)](https://nestlydigital.com)
+[![Web Design](https://img.shields.io/badge/Web%20Design-Service-green)](https://nestlydigital.com/web-design/)
+[![GitHub Repo](https://img.shields.io/badge/Free%20Template-Next.js%20Starter-black)](https://github.com/nestlydigital/nextjs-client-website-starter)
+[![X](https://img.shields.io/badge/X-@nestlydigital-black)](https://x.com/nestlydigital)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-blue)](https://www.linkedin.com/company/108319158/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@NestlyDigital)
