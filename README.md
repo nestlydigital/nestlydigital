@@ -1,40 +1,88 @@
 # NestlyDigital
 
-We help small businesses launch fast, modern websites and digital products without overcomplicating the process.
+![Next.js](https://img.shields.io/badge/Next.js-Latest-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-blue)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 
-## What we do
+Build modern websites faster with Next.js, AI, and open-source resources.
 
-- Build affordable Next.js websites for small businesses
-- Create reusable templates and digital resources
-- Share open-source tools for agencies, freelancers, and developers
-- Help entrepreneurs use AI and automation more effectively
+NestlyDigital helps small businesses launch professional websites without the complexity and cost of traditional web development.
 
-## Featured project
+---
 
-### Next.js Client Website Starter
+## What We Do
 
-A free, open-source starter template for building modern business websites quickly.
+### Web Design & Development
 
-- Next.js
-- Tailwind CSS
-- Responsive layout
-- Essential business pages
-- SEO-ready structure
-- MIT license
+* Modern Next.js websites
+* Mobile-first responsive design
+* SEO-ready architecture
+* Fast performance and Core Web Vitals optimization
+* Affordable solutions for small businesses
 
-View the repo: https://github.com/nestlydigital/nextjs-client-website-starter  
-See the service: https://nestlydigital.com/web-design/
+### AI & Automation
 
-## Work with us
+* Business process automation
+* AI-powered workflows
+* Digital transformation solutions
 
-Need a professional website for your business?
+### Open Source
 
-NestlyDigital builds fast, modern websites using Next.js, starting at $100.
+We publish templates, examples, and resources to help developers, freelancers, and agencies build faster.
 
-Get a quote: https://nestlydigital.com/contact/
+---
 
-## Links
+## Featured Project
 
-Website: https://nestlydigital.com  
-Web Design: https://nestlydigital.com/web-design/  
+### 🚀 Next.js Client Website Starter
+
+A free, open-source starter template for business websites.
+
+Features:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Responsive design
+* Essential business pages
+* SEO-ready structure
+* Dark mode support
+* MIT License
+
+👉 Repository
+https://github.com/nestlydigital/nextjs-client-website-starter
+
+👉 Live Service Page
+https://nestlydigital.com/web-design/
+
+This is the same foundation we use when building websites for clients, helping reduce development time and cost.
+
+---
+
+## Why We Open Source
+
+Many small businesses need a professional website but cannot justify spending thousands of dollars.
+
+By sharing our starter template publicly, we make modern web technology more accessible while helping businesses launch faster.
+
+---
+
+## Work With Us
+
+Need a website for your business?
+
+We build modern websites using Next.js and our proven starter framework.
+
+🌐 Web Design Service
+https://nestlydigital.com/web-design/
+
+📩 Contact Us
+https://nestlydigital.com/contact/
+
+---
+
+## Connect
+
+Website: https://nestlydigital.com
 X: https://x.com/nestlydigital
+GitHub: https://github.com/nestlydigital
