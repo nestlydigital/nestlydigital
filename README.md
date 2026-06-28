@@ -4,88 +4,124 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-blue)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
-Build modern websites faster with Next.js, AI, and open-source resources.
+Build modern websites faster with **Next.js**, **AI**, and **open-source resources**.
 
-NestlyDigital helps small businesses launch professional websites without the complexity and cost of traditional web development.
+NestlyDigital helps entrepreneurs and small businesses launch professional websites using modern technologies, while publishing free templates and tools for the developer community.
 
 ---
 
-## What We Do
+## 🚀 What We Do
 
 ### Web Design & Development
 
 * Modern Next.js websites
-* Mobile-first responsive design
+* Responsive, mobile-first design
 * SEO-ready architecture
-* Fast performance and Core Web Vitals optimization
-* Affordable solutions for small businesses
+* High-performance websites optimized for Core Web Vitals
+* Affordable solutions for entrepreneurs and small businesses
 
 ### AI & Automation
 
-* Business process automation
 * AI-powered workflows
+* Business automation
 * Digital transformation solutions
 
 ### Open Source
 
-We publish templates, examples, and resources to help developers, freelancers, and agencies build faster.
+We create and maintain free templates and resources to help developers, freelancers, agencies, and founders build faster.
 
 ---
 
-## Featured Project
+# ⭐ Featured Projects
 
-### 🚀 Next.js Client Website Starter
+## 🚀 Next.js Client Website Starter
 
-A free, open-source starter template for business websites.
+A complete starter template for modern business websites.
 
-Features:
+### Features
 
 * Next.js
 * TypeScript
 * Tailwind CSS
-* Responsive design
+* Responsive layout
 * Essential business pages
 * SEO-ready structure
-* Dark mode support
+* Dark mode
 * MIT License
 
-👉 Repository
+**Repository**
+
 https://github.com/nestlydigital/nextjs-client-website-starter
 
-👉 Live Service Page
-https://nestlydigital.com/web-design/
+**Live Demo**
 
-This is the same foundation we use when building websites for clients, helping reduce development time and cost.
+https://nextjs-client-website-starter.vercel.app/
+
+**Learn More**
+
+https://nestlydigital.com/web-design/
 
 ---
 
-## Why We Open Source
+## 🎨 Landing Page Template
 
-Many small businesses need a professional website but cannot justify spending thousands of dollars.
+A modern landing page template built with Next.js and Tailwind CSS for startups, SaaS products, creators, agencies, and small businesses.
 
-By sharing our starter template publicly, we make modern web technology more accessible while helping businesses launch faster.
+### Features
+
+* Clean conversion-focused design
+* Responsive layout
+* SEO-ready
+* Fast performance
+* Easy customization
+* Production-ready code
+
+**Repository**
+
+https://github.com/nestlydigital/landing-page-template
+
+**Live Demo**
+
+https://landing-page-template-nestlydigital.vercel.app/
 
 ---
 
-## Work With Us
+## 💙 Why Open Source?
 
-Need a website for your business?
+We believe great websites should be accessible to everyone.
 
-We build modern websites using Next.js and our proven starter framework.
+Our open-source projects allow developers to learn from production-ready code while giving entrepreneurs confidence in the technology behind our web design services.
 
-🌐 Web Design Service
+---
+
+## 🤝 Work With Us
+
+Need a professional website?
+
+NestlyDigital builds fast, modern websites using Next.js and our proven templates as a foundation, reducing development time and helping keep projects affordable.
+
+🌐 **Web Design Service**
+
 https://nestlydigital.com/web-design/
 
-📩 Contact Us
+📩 **Contact**
+
 https://nestlydigital.com/contact/
 
 ---
 
-## Connect
+## 🌐 Connect
 
 [![Website](https://img.shields.io/badge/Website-nestlydigital.com-blue)](https://nestlydigital.com)
 [![Web Design](https://img.shields.io/badge/Web%20Design-Service-green)](https://nestlydigital.com/web-design/)
-[![GitHub Repo](https://img.shields.io/badge/Free%20Template-Next.js%20Starter-black)](https://github.com/nestlydigital/nextjs-client-website-starter)
+[![Next.js Starter](https://img.shields.io/badge/GitHub-Next.js%20Starter-black)](https://github.com/nestlydigital/nextjs-client-website-starter)
+[![Landing Page](https://img.shields.io/badge/GitHub-Landing%20Page%20Template-24292e)](https://github.com/nestlydigital/landing-page-template)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-000000)](https://landing-page-template-nestlydigital.vercel.app/)
 [![X](https://img.shields.io/badge/X-@nestlydigital-black)](https://x.com/nestlydigital)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-blue)](https://www.linkedin.com/company/108319158/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@NestlyDigital)
+
+---
+
+⭐ If you find our templates useful, consider starring the repositories and following **NestlyDigital** for more open-source projects, AI resources, and modern web development content.
+
